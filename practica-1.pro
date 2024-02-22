@@ -6,6 +6,7 @@ CONFIG -= qt
 SOURCES += \
         main.cpp \
         ejercicio1.cpp \
+        ejercicio2.cpp \
         ejercicio3.cpp \
 
 

@@ -2,6 +2,7 @@
 #define EJERCICIOS_H
 
 int ejercicio1();
+int ejercicio2();
 int ejercicio3();
 
 #endif // EJERCICIOS_H
