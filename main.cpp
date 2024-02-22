@@ -1,9 +1,12 @@
 #include <iostream>
+#include "Ejercicios.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    ejercicio1();
+    ejercicio3();
+    
     return 0;
 }

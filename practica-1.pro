@@ -4,4 +4,11 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+        ejercicio1.cpp \
+        ejercicio3.cpp \
+
+
+HEADERS += \
+    ejercicios.h
+
