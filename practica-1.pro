@@ -8,6 +8,8 @@ SOURCES += \
         ejercicio1.cpp \
         ejercicio2.cpp \
         ejercicio3.cpp \
+        ejercicio5.cpp \
+        ejercicio13.cpp \
 
 
 HEADERS += \
