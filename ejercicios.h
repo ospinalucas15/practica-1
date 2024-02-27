@@ -5,7 +5,9 @@ int ejercicio1();
 int ejercicio2();
 int ejercicio3();
 int ejercicio5();
+int ejercicio6();
 int ejercicio7();
+int ejercicio9();
 int ejercicio10();
 int ejercicio13();
 
