@@ -12,6 +12,7 @@ int main()
     ejercicio6();
     ejercicio7();
     ejercicio9();
+    ejercicio8();
     ejercicio10();
     ejercicio13();
     
