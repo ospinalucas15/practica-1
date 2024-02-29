@@ -15,6 +15,7 @@ SOURCES += \
         ejercicio8.cpp \
         ejercicio9.cpp \
         ejercicio10.cpp \ 
+        ejercicio12.cpp \
         ejercicio13.cpp \
 
 
