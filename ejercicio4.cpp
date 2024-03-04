@@ -15,7 +15,7 @@ int ejercicio4(){
 
     cout << "Ingrese la hora del dia: ";
     cin >> n1;
-    cout << "Ingrese la duración: ";
+    cout << "Ingrese la duracion: ";
     cin >> n2;
 
     ultdig1 = n1 % 100;

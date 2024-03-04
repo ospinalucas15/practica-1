@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int ejericio7() {
+int ejercicio7() {
 
     int n1 = 1;
     int sumaF = 1;
