@@ -18,7 +18,10 @@ SOURCES += \
         ejercicio11.cpp \
         ejercicio12.cpp \
         ejercicio13.cpp \
-        ejercicio14.cpp
+        ejercicio14.cpp \
+        ejercicio15.cpp \
+        ejercicio16.cpp \
+        ejercicio17.cpp
 
 
 HEADERS += \

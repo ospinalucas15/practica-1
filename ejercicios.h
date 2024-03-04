@@ -15,5 +15,8 @@ int ejercicio11();
 int ejercicio12();
 int ejercicio13();
 int ejercicio14();
+int ejercicio15();
+int ejercicio16();
+int ejercicio17();
 
 #endif // EJERCICIOS_H
