@@ -4,7 +4,7 @@ using namespace std;
 
 int ejercicio15() {
     int n;
-    cout << "Ingrese el tamaño de la espiral (debe ser un número impar): ";
+    cout << "Ingrese un numero: ";
     cin >> n;
 
     int suma = 1; 
@@ -18,7 +18,6 @@ int ejercicio15() {
         }
     }
 
-    cout << "La suma de los números en la diagonal de una espiral de " << n << "x" << n << " es: " << suma << endl;
 
     cout << "En la espiral de " << n << 'x' << n << ", la suma es: " << suma << endl;
 
