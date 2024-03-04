@@ -15,8 +15,10 @@ int main()
     ejercicio9();
     ejercicio8();
     ejercicio10();
+    ejercicio11();
     ejercicio12();
     ejercicio13();
+    ejercicio14();
     
     return 0;
 }
